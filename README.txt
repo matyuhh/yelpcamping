@@ -9,3 +9,5 @@ This project was created using:
 - NodeJS
 - Bootstrap
 
+- PassportJS
+
